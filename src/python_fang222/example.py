@@ -4,3 +4,8 @@ def add_one(number):
 
 def my_func(str):
     return "fanghongjian_" + str
+
+
+def my_func333(str):
+    return "fanghongjian222_" + str
+
